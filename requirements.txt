@@ -1,0 +1,7 @@
+fastapi
+langchain
+langserve
+uvicorn
+openai
+sse_starlette
+numexpr
