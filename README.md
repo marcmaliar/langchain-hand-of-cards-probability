@@ -2,6 +2,8 @@
 
 This project is a LangChain prompt engineering application. ChatGPT receives a hand of cards by user input from a standard 52 card deck. Then it calculates the probability of that hand happening using the LangChain math LLM chain. Finally, it gives the user a paragraph explaining in real-world terms how small this probability is. This is an example of a prompting application with multiple layers.
 
+[Explanatory YouTube video](https://youtu.be/Awwo02SYUzg)
+
 ## Main Features
 
 1. **ChatPromptTemplate**: This class is used to create chat prompts for the AI.
